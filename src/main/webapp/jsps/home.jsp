@@ -20,7 +20,7 @@
 
 	<span style="font-weight: bold;">
 		SriGanesha Technologies, 
-		MINDSPACE, Above HSBC Bank,
+		DivyaSree, Above WellsForgo Bank,
 		HYDERABAD.
 		+91-9985255485,
 		<br>
